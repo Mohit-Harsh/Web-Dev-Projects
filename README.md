@@ -15,8 +15,6 @@
       <a href="#social-media-posts-microservice">Social-Media-Posts Microservice</a>
     </li>
     <li>
-      <a href="#book-store-website">Book Store Website</a>
-    <li>
       <a href="#movies-website">Movies Website</a>
     </li>
   </ol>
