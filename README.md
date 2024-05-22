@@ -48,11 +48,11 @@ This is a `React` and `Django` Application for analyzing your coding performance
 
 ### About The Project
 
-This is a Django project with frontend ui and a search engine at the backend.
+A Web Application to Post Job Applications built using `Spring` (backend) and `React` (frontend). The application follows `Microservices Design Principles`.
 
 ### Built With
 
-![spring] ![React.js] ![rabbitmq] 
+![spring] ![React.js] ![postgres] ![rabbitmq] ![HTML] ![CSS]
 
 <br>
 
@@ -68,43 +68,27 @@ This is a Django project with frontend ui and a search engine at the backend.
 
 ### Built With
 
-![spring] ![React.js] ![rabbitmq]
+![spring] ![rabbitmq] ![postgres]
 
-### Usage
-
-This is a Django project with frontend ui and a search engine at the backend.
-
-<br>
-
-## Book Store Website
-
-### About The Project
-
-This is a Django project with frontend ui and a search engine at the backend.
-
-### Built With
-
-This is a Django project with frontend ui and a search engine at the backend.
-
-### Usage
-
-This is a Django project with frontend ui and a search engine at the backend.
 
 <br>
 
 ## Movies Website
 
+<a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
+
+`Click Image -> Repo`
+
 ### About The Project
 
 This is a Django project with frontend ui and a search engine at the backend.
 
 ### Built With
 
-This is a Django project with frontend ui and a search engine at the backend.
+![Django] ![HTML] ![CSS] ![Bootstrap] ![scikitlearn] ![tensorflow]
 
-### Usage
 
-This is a Django project with frontend ui and a search engine at the backend.
+
 
 
 
@@ -117,3 +101,4 @@ This is a Django project with frontend ui and a search engine at the backend.
 [tensorflow]:https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow
 [spring]:https://img.shields.io/badge/Spring--Boot-249141?style=for-the-badge&logo=spring&logoColor=white
 [rabbitmq]:https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white
+[postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
