@@ -62,7 +62,7 @@ A Web Application to Post Job Applications built using `Spring` (backend) and `R
 
 ### About The Project
 
-This is a Django project with frontend ui and a search engine at the backend.
+This project implements 2 important features of a `Social Media Messaging App` -> managing `User Posts` and `User Notifications` using Microservices Architecture.
 
 ### Built With
 
@@ -79,7 +79,7 @@ This is a Django project with frontend ui and a search engine at the backend.
 
 ### About The Project
 
-This is a Django project with frontend ui and a search engine at the backend.
+In this project we have implemented an `AI Powered Search Engine` for a Movies Website that can a search a movie using its Plot, Name or Cast and Crew.
 
 ### Built With
 
