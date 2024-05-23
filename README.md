@@ -71,7 +71,7 @@ This project implements 2 important features of a `Social Media Messaging App` -
 
 <br>
 
-## Movies Website
+## Movie Synopsis Search
 
 <a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
 
