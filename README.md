@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#hack/stack">Hack/Stack</a>
+      <a href="#hack-stack">Hack/Stack</a>
     </li>
     <li>
       <a href="#job-posts-microservice">Job Posts Microservice</a>
@@ -15,14 +15,14 @@
       <a href="#social-media-posts-microservice">Social-Media-Posts Microservice</a>
     </li>
     <li>
-      <a href="#movies-website">Movies Website</a>
+      <a href="#movie-synopsis-search">Movies Website</a>
     </li>
   </ol>
 </details>
 
 <br>
 
-## Hack/Stack
+## Hack Stack
 
 <a href="https://github.com/Mohit-Harsh/CodingWebsiteRepository"><img id="hack-stack-img" src="./assets/hackstack.jpg"></a>
 
