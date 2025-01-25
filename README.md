@@ -6,6 +6,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#cinepick">Cinepick Movie Website</a>
+    </li>
+    <li>
       <a href="#hack-stack">Hack/Stack</a>
     </li>
     <li>
@@ -22,9 +25,9 @@
 
 <br>
 
-## Cinepick
+## Cinepick Movie Website
 
-<a href="https://github.com/Mohit-Harsh/MovieWebsite"><img id="hack-stack-img" src="./assets/hackstack.jpg"></a>
+<a href="https://github.com/Mohit-Harsh/MovieWebsite"><img id="hack-stack-img" src="./assets/cinepick.png"></a>
 
 `Click Image -> Repo`
 
