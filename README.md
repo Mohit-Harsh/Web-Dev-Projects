@@ -22,6 +22,23 @@
 
 <br>
 
+## Cinepick
+
+<a href="https://github.com/Mohit-Harsh/MovieWebsite"><img id="hack-stack-img" src="./assets/hackstack.jpg"></a>
+
+`Click Image -> Repo`
+
+### About The Project
+
+CinePick is a modern, full-featured movies website built using Spring Boot, FastAPI, React.js and Langchain. It provides a smooth user experience with dynamic content tailored to the user’s location and preferences. From searching and filtering movies to booking seats and getting personalized movie recommendations, CinePick offers it all!
+
+### Built With
+
+![spring] ![React.js] ![scikitlearn] ![tensorflow] ![langchain] ![fastapi]
+
+<br>
+
+
 ## Hack Stack
 
 <a href="https://github.com/Mohit-Harsh/CodingWebsiteRepository"><img id="hack-stack-img" src="./assets/hackstack.jpg"></a>
@@ -100,3 +117,5 @@ In this project we have implemented an `AI Powered Search Engine` for a Movies W
 [spring]:https://img.shields.io/badge/Spring--Boot-249141?style=for-the-badge&logo=spring&logoColor=white
 [rabbitmq]:https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white
 [postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
+[langchain]: https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=langchain
+[fastapi]: https://img.shields.io/badge/FastAPIt-blue?style=for-the-badge&logo=fastapi&logoColor=white
